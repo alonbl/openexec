@@ -1,0 +1,7 @@
+{
+	global:
+		open;
+		open64;
+		close;
+	local: *;
+};
